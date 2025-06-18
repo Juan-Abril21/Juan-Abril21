@@ -13,7 +13,7 @@
 🥪 **Front End** / 🥗 **Backend**
 
 ### 🍉 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,arduino,nodejs,php,react,next,vue,angular,tailwindcss,redux,bootstrap,html,css,js,ts,less,scss,fastapi,django,opencv,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,arduino,nodejs,php,react,next,vue,angular,tailwindcss,redux,bootstrap,html,css,js,ts,scss,fastapi,django,opencv,threejs,java,spring)](https://skillicons.dev)
 
 ### 🔨 Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,github,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
